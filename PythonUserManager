@@ -1,4 +1,0 @@
-import os
-#Python User Manager 
-def manageUsers():
-  tempdefaultUser[20] = 
